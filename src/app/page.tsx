@@ -1,11 +1,15 @@
 'use client '
 
+import { Button } from "@/components/ui/button"
+
 
 export default function Home() {
   return (
     <div>
-       this is new page
-       
+         <Button variant="outline">
+      click me 
+      </Button>
     </div>
+  
   )
 }
