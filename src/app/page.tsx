@@ -1,14 +1,12 @@
-'use client '
+// // 'use client '
 
-import { Button } from "@/components/ui/button"
+// import { Button } from "@/components/ui/button"
 
 
 export default function Home() {
   return (
     <div>
-         <Button variant="outline">
-      click me 
-      </Button>
+     this is main lander page
     </div>
   
   )
